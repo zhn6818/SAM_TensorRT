@@ -1,5 +1,6 @@
 #include "samDecoder.h"
 #include <chrono>
+#include <opencv2/highgui.hpp>
 #include <opencv2/opencv.hpp>
 
 int main(int argc, char *argv[])
